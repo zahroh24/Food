@@ -1,0 +1,211 @@
+[
+    {
+      "name":"Risol Mayo",
+      "address":"Ruko 2",
+      "delivery_charge": 5,
+      "image":"https://img-global.cpcdn.com/recipes/01ee4d34c9c6ec0d/1360x964cq70/risoles-mayo-foto-resep-utama.webp",
+
+      "hours":{
+        "Sunday":"Closed",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "RISOL AYAM",
+          "price": 4000,
+          "url": "https://www.dapurkobe.co.id/wp-content/uploads/risol-ayam.jpg"
+        },
+        {
+          "name": "RISOL MAYO",
+          "price": 4000,
+          "url": "https://img-global.cpcdn.com/recipes/01ee4d34c9c6ec0d/1360x964cq70/risoles-mayo-foto-resep-utama.webp"
+        },
+        {
+          "name": "SSST CAKE",
+          "price": 4500,
+          "url": "https://cdn1-production-images-kly.akamaized.net/5WqC-zNbAlCk55QnlmGqJS4QVzs=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3272367/original/061611100_1603169722-Resep-KueSusuVla-Vanila-Susu.jpg"
+        },
+        {
+          "name": "FRUIT SALAD",
+          "price": 15000,
+          "url": "https://akcdn.detik.net.id/visual/2022/06/23/cara-membuat-salad-buah-yang-enak-dan-praktis_43.jpeg?w=720&q=90"
+        },
+        {
+          "name": "DIMSUM",
+          "price": 15000,
+          "url": "https://asset.kompas.com/crops/DEDxeclyBPPZ2miRZhxGFJxhHU0=/0x175:800x708/750x500/data/photo/2021/01/18/60053789dc100.jpg"
+        },
+        {
+          "name": "MANGO FLOAT",
+          "price": 15000,
+          "url": "https://img-global.cpcdn.com/recipes/7a212d9da6594a57/680x482cq70/mango-float-foto-resep-utama.jpg"
+        }
+
+      ]
+    },
+
+    {
+      "name":"Warung Padang",
+      "address":"Ruko 1",
+      "delivery_charge": 5,
+      "image":"https://katalogpromosi.com/wp-content/uploads/2021/05/Nayam-2-1024x1024.jpg",
+
+      "hours":{
+        "Sunday":"closed",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Rendang",
+          "price": 10.000,
+          "url": "https://www.thuisbezorgd.nl/foodwiki/uploads/2017/05/rendang-3-1080x1080.jpg"
+        },
+        {
+          "name": "Ayam Bakar",
+          "price": 12.000,
+          "url": "https://2.bp.blogspot.com/-ms3a_O1nL40/UqgFc8CNuaI/AAAAAAAAE34/UE3bEkrGhsE/s1600/ayam+padang2.jpg"
+        },
+        {
+          "name": "Ayam Gulai",
+          "price": 12.000,
+          "url": "https://sweetrip.id/wp-content/uploads/2022/01/ayam-gulai-pedas.jpg"
+        },
+        {
+          "name": "Ikan Bakar",
+          "price": 11.000,
+          "url": "https://resepkoki.id/wp-content/uploads/2017/03/Resep-Ikan-bakar-padang.jpg"
+        },
+        {
+          "name": "Perkedel",
+          "price": 5.000,
+          "url": "https://cdn-brilio-net.akamaized.net/news/2021/05/19/206190/1475686-1000xauto-resep-aneka-perkedel.jpg"
+        },
+        {
+          "name": "Gulai Kakap",
+          "price": 14.000,
+          "url": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/08/Resep-Gulai-Kakap.jpg?fit=2070%2C2030&ssl=1"
+        },
+        {
+          "name": "Telor Dadar",
+          "price": 7.000,
+          "url": "https://doyanresep.com/wp-content/uploads/2020/05/resep-telur-dadar-crispy-1024x861.jpg"
+        },
+        {
+          "name": "Nasi",
+          "price": 4.000,
+          "url": "https://cdn.maskulin.com.my/2019/07/nasi-putih-1-07_56_159773.jpg"
+        }
+      ]
+
+    },
+  {
+    "name":"Warung Ibu",
+    "address":"Ruko 2",
+    "delivery_charge": 4,
+    "image":"https://ninamirza.com/wp-content/uploads/2020/05/Restoran-Cibiuk-Ayam-Panggang-gerenti-Sedap-Kajang-wajib-cuba-murah-.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Ayam Penyet",
+        "price": 18.000,
+        "url": "https://pasarmakan.com/wp-content/uploads/2020/08/ayam-1920x1920.jpg"
+      },
+      {
+        "name": "Steak Ayam",
+        "price": 18.000,
+        "url": "https://kateringku.id/wp-content/uploads/2021/01/steak.jpg"
+      },
+      {
+        "name": "Nasi Jagal",
+        "price": 18.000,
+        "url": "https://abouttng.com/wp-content/uploads/2017/06/Nasi-Jagal-Bersama-Sambal.jpg"
+      },
+      {
+        "name": "Ayam Bakar",
+        "price": 18.000,
+        "url": "https://cdn-brilio-net.akamaized.net/news/2019/10/22/172646/1114926-1000xauto-14-resep-cara-membuat-ayam-bakar.jpg"
+      },
+      {
+        "name": "Chicken Katsu",
+        "price": 18.000,
+        "url": "https://resepkoki.id/wp-content/uploads/2017/01/Resep-Ayam-Katsu.jpg"
+      },
+      {
+        "name": "Kwetiaw Rebus",
+        "price": 15.000,
+        "url": "https://www.masakapahariini.com/wp-content/uploads/2022/09/resep-kwetiau-rebus.jpg"
+      },
+      {
+        "name": "Kwetiaw Goreng",
+        "price": 15.000,
+        "url": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/19/2982431953.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Warung Bakso dan Mie Ayam",
+    "address":"Ruko 3",
+    "delivery_charge": 5,
+    "image":"https://www.ukmriau.com/wp-content/uploads/2020/11/Bakso-Boom-dan-Mie-Ayam-Mas-Gun-6-1024x1018.jpeg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Bakso",
+        "price": 13.000,
+        "url": "https://i.pinimg.com/originals/cb/60/a6/cb60a6330c9acfe1b46c9823a14952dd.png"
+      },
+      {
+        "name": "Mie ayam",
+        "price": 15.000,
+        "url": "https://cdn-brilio-net.akamaized.net/news/2019/10/08/171965/1108674-1000xauto-cara-membuat-mie-ayam.jpg"
+      },
+      {
+        "name": "Mie Ayam Bakso",
+        "price": 18.000,
+        "url": "https://resepkoki.id/wp-content/uploads/2021/03/Resep-Mie-Ayam-Solo.jpg"
+      },
+      {
+        "name": "Mie Yamin",
+        "price": 15.000,
+        "url": "https://www.topwisata.info/wp-content/uploads/2022/02/Mie-Yamin-1.jpeg"
+      },
+      {
+        "name": "Kwetiaw Rebus",
+        "price": 15.000,
+        "url": "https://www.masakapahariini.com/wp-content/uploads/2022/09/resep-kwetiau-rebus.jpg"
+      },
+      {
+        "name": "Nasi Bakar",
+        "price": 10.000,
+        "url": "https://cdn.yummy.co.id/content-images/images/20200404/1Iylpw4CVqdxZt1eUOgNSHotbcEwCrAJ-31353835393731323830d41d8cd98f00b204e9800998ecf8427e_800x800.jpg"
+      }
+    ]
+  }
+  ]
